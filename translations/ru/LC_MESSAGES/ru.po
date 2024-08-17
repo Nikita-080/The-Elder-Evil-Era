@@ -1,0 +1,239 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2024-06-08 15:09 UTC\n"
+"PO-Revision-Date: 2024-07-24 11:00+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SearchPath-0: _main.cfg\n"
+"X-Poedit-SearchPath-1: era.cfg\n"
+"X-Poedit-SearchPath-2: units/IL_Warrior.cfg\n"
+
+msgid ""
+"The clang of parts, the crackle of gears, the hiss of pistons. The Iron "
+"Legion awakens and inevitably comes. Warriors are the backbone of the "
+"legion. They seem slow and unwieldy, but do not underestimate these "
+"creatures of blacksmithing and dark magic. Their copper mechanisms allow "
+"them to deliver crushing blows with huge swords, and steel plates reliably "
+"protect against any type of damage."
+msgstr ""
+"Лязг деталей, треск зубчатых колёс, шипение поршней. Железный Легион "
+"пробуждается и неотвратимо наступает. Воины являются основой легиона. Они "
+"кажутся медлительными и неповоротливыми, но не стоит недооценивать этих "
+"порождений кузнечного дела и темной магии. Их медные механизмы позволяют "
+"наносить сокрушительные удары огромными мечами, а стальные пластины "
+"надежно защищают от любых типов урона."
+
+msgid "The Elder Evil Era"
+msgstr "Эра древнего зла"
+
+msgid "Iron Legion"
+msgstr "Железный Легион"
+
+msgid "Warrior Mk I"
+msgstr "Воин Mk I"
+
+msgid "Warrior Mk II"
+msgstr "Воин Mk II"
+
+msgid "Warrior Mk III"
+msgstr "Воин Mk III"
+
+msgid "sword"
+msgstr "меч"
+
+msgid "axe"
+msgstr "топор"
+
+msgid "Dark fighter"
+msgstr "Тёмный ратник"
+
+msgid "Dark steelclad"
+msgstr "Тёмный дружинник"
+
+msgid "Dark Lord"
+msgstr "Тёмный Конунг"
+
+msgid "Raptor"
+msgstr "Хищник"
+
+msgid "jaws"
+msgstr "челюсти"
+
+msgid "thorns"
+msgstr "шипы"
+
+msgid "Ripper"
+msgstr "Потрошитель"
+
+msgid "Of all the unholy mechanisms, the rippers are the most terrifying. Once closed, the huge jaws will not open until the victim is dead. This death is never quick. For many, even the howls of ghosts have become less ominous than the wild screeching of metal, announcing that the ranks of soldiers are about to be torn apart by terrifying blades."
+msgstr "Из всех нечестивых механизмов потрошители являются самыми страшными. Сомкнувшись, огромные челюсти не разожмутся, пока жертва не погибнет. Эта смерть никогда не бывает быстрой. Для многих даже завывания призраков стали менее зловещими, чем дикий скрежет металла, возвещающий о том, что ряды солдат вот вот будут разодраны ужасающими лезвиями."
+
+msgid "The appearance of these cars is deceptive. Deadly deceptive. Raptors are fast, unlike their own... brothers. The bite of mechanical jaws can easily deprive a person of an arm or leg, and the spikes on the back can shoot and fight back even an archer."
+msgstr "Внешность этих машин обманчива. Смертельно обманчива. Рапторы стремительны, в отличие от своих... собратьев. Укус механических челюстей без труда лишить человека руки или ноги, а шипы на спине могут выстрелить и дать отпор даже лучнику."
+
+msgid "The fateful day affected all dwarves. Along with the rebellious blacksmiths, their followers also left. They scorched their armor with sacred fire, erasing the insignia and giving them an ominous black color. The dark sorcery of the Forge Masters strengthened the blades of their axes. Now, marching in the ranks of the Iron Legion, the dark warriors are ready to destroy anyone who gets in their way."
+msgstr "Роковой день повлиял на всех дварфов. Вместе с мятежными кузнецами ушли и их последователи. Они опалили священным огнем свои доспехи, стерев знаки отличия и придав им зловещий черный цвет. Темное колдовство Магистров Кузни усилило лезвия их топоров. Теперь, шагая в рядах Железного Легиона, темные ратники готовы уничтожить любого, кто встанет у них на пути."
+
+msgid "Unfortunately for many, the dark dwarf warriors did not fall to a handful of warring gangs. They have retained the military structure. A fighter who distinguished himself in battle could still become a steelclad and get even more powerful uniforms at his disposal."
+msgstr "К сожалению многих, воины темных гномов не пали до горстки враждующих банд. Они сохранили военную структуру. Отличившийся в бою ратник по прежнему мог стать дружинником и получить в свое распоряжение еще более мощное обмундирование."
+
+msgid "The dark kings of the volcanic mountains. A distorted likeness of their great brethren, they lead hordes of dwarves and mechanical abominations into battle. And their first goal is Knalga."
+msgstr "Тёмный короли вулканических гор. Искаженное подобие своих великих собратьев, они ведут в бой орды дварфов и механических мерзостей. И первая их цель Кналга."
+
+msgid "The Wreckers are the most powerful automatons of the Legion. Defending themselves, they put forward two huge shields made of thick steel, blocking any attacks. With the same shields, the Wreckers sweep away enemies in close combat. In long-range combat, these monstrous machines use weapons similar to those used by Knalga thunderers."
+msgstr "Крушители - самые мощные автоматоны Легиона. Защищаясь, они выставляют вперед два огромных щита из толстой стали, закрываясь от любых атак. Этими же щитами Крушители сметают врагов в ближнем бою. В дальнем же бою эти чудовищные машины используют орудия, подобные тем что применяют громобои Кналга."
+
+msgid "Wrecker"
+msgstr "Крушитель"
+
+msgid "Demolisher"
+msgstr "Разрушитель"
+
+msgid "Devastator"
+msgstr "Опустошитель"
+
+msgid "Mighty war machines rise above the even ranks of the Iron Legion. The Demolishers. Even to their creators, they inspire fear. Unstoppable in attack and unshakable in defense, created for the sake of one goal - War."
+msgstr "Могучие боевые машины возвышаются над ровными рядами Железного Легиона. Разрушители. Даже своим создателям они внушают страх. Неудержимые в атаке и непоколебимые в защите, созданные ради одной цели - Войны."
+
+msgid "Huge, godlike creatures made of metal and hideous magic. They fully deserve their name - the Devastators. The volleys of his three guns will leave nothing even from an experienced hero. Steel shields break bones as if they were made of glass. Even one such monster can wipe out an entire army. And who knows how many of them are still in the caves."
+msgstr "Огромные, богоподобные создания из металла и омерзительной магии. Они в полной мере заслуживают свое название - Опустошители. Залпы трех его орудий не оставят ничего даже от опытного героя. Стальные щиты ломают кости словно те сделаны из стекла. Даже одно такое чудовище может истребить целую армию. И кто знает, сколько таких еще находится в пещерах."
+
+msgid "shield"
+msgstr "щит"
+
+msgid "gun"
+msgstr "орудие"
+
+msgid "The Path of Fire for renegade dwarves begins with the title of an adept of the forge. Already at this stage, future blacksmiths learn the basics of magic and melee combat. Their hammers can not only crush enemies, but also repair damaged mechanisms of the Iron Legionaries."
+msgstr "Путь Огня для гномов отступников начинается со звания адепта кузни. Уже на этом этапе будущие кузнецы постигают азы магии и ближнего боя. Их молоты могут не только сокрушать врагов, но и чинить поврежденные механизмы Железных Легионеров."
+
+msgid "hammer"
+msgstr "молот"
+
+msgid "fireball"
+msgstr "огненный шар"
+
+msgid "Dark blacksmith"
+msgstr "Тёмный кузнец"
+
+msgid "The Dark blacksmiths are full members of the Legion. They can command hordes of rumbling machines, repair them and send them into battle. In the mastery of fire magic, they can compete with the magicians of Alduin. These warriors are worthy rivals for any army."
+msgstr "Тёмные кузнецы являются полноправными членами Легиона. Они могут командовать ордами грохочущих механизмов, чинить их и отправлять в бой. В мастерстве владения огненной магией они могут посоревноваться с магами Алдуина. Эти воины являются достойными соперниками для любого войска."
+
+msgid "Adept of Forge"
+msgstr "Адепт Кузни"
+
+msgid "Great blacksmith"
+msgstr "Великий кузнец"
+
+msgid "Master of Forge"
+msgstr "Магистр Кузни"
+
+msgid "Blood Cult"
+msgstr "Культ Крови"
+
+msgid "With their hammers, they forge the most terrifying machines. With their magic, they ignite huge blast furnaces. They Are Great Blacksmiths. Woe to anyone who stands in the way of their might."
+msgstr "Своими молотами они выковывают самые устрашающие машины. Своей магией они разжигают огромные доменные печи. Они - Великие Кузнецы. Горе тому, кто встанет на пути их мощи."
+
+msgid "They cause the same horror as Lychees. And no hero can stand against their withering power. Their mastery of fire and iron is so great that in their hands even an ordinary axe can become a mystical weapon, and a handful of copper gears can become a creepy half-dead machine."
+msgstr "Они вызывают такой же ужас что и Личи. И ни один герой не может выстоять против их испепеляющей мощи. Их мастерство владения огнем и железом столь велико, что в их руках даже обычный топор может стать мистическим оружием, а горстка медных шестеренок - жуткой полуживой машиной."
+
+msgid "Centuries ago, when the Wesnoth kingdom was not yet on the maps, a terrible event happened. Dwarves have long been forging magical artifacts for themselves and for the Elven lords. However, some of the dwarf blacksmiths decided that dark sorcery could also be used. Retreating into abandoned tunnels, they laid the foundations for what they would later call the Path of Fire. Here, in the darkness of the depleted mines, they began experiments. And they succeeded. It wasn't a blade that revived the dead, or a staff that created whirlwinds of fire. They created a mechanical semblance of life. An incredible array of gears, pistons and hinges intertwined with each other. The creature could move clumsily and even hold a weapon. And then, the secret forge was revealed. The lords of the dwarf people were enraged by the manifestation of witchcraft they saw, and disowned their brethren. The apostates had to run, run even further, into caves under volcanic mountains. Strangely enough, the blacksmiths were followed by ordinary dwarves, adepts of the Path of Fire. No one has seen them since. The dwarf lords hoped that these heretics had perished from the clutches of unknown underground creatures or from the vagaries of restless mountains. But one day, everything changed. Combat automatons began to emerge from the caves. Hundreds and thousands of mechanical creatures. Slow and unwieldy, but possessing strong armor and superhuman strength, they terrified entire armies in the blink of an eye. Among them, you can see dwarves in scorched armor and with axes that sparkle with lightning bolts of magical energies. Together they call themselves the Iron Legion."
+msgstr "Века назад, когда королевства Wesnoth еще не было на картах, произошло ужасное событие. Гномы уже давно ковали магические артефакты для себя и по заказу эльфийских лордов. Однако некоторые из гномов кузнецов решили, что можно использовать и тёмное колдовство. Удалившись в заброшенные штольни, они зародили основы того, что потом назовут Путь Огня. Здесь же, в темноте  истощенных шахт они начали эксперименты. И преуспели. Это был не клинок, оживляющий мертвецов, и не посох, создающий огненные вихри. Они создали механическое подобие жизни. Невероятное множество шестерен, поршней и шарниров, переплетенных между собой. Существо могло неуклюже двигаться и даже держать оружие. А затем, секретная кузница была раскрыта. Повелители народа гномов пришли в ярость от увиденного проявления колдовства, и отреклись от своих собратьев. Отступникам пришлось бежать, бежать еще дальше, в пещеры под вулканическими горами. Как ни странно, за кузнецами последовали и обычные гномы, адепты Пути Огня. С тех пор их никто не видел. Лорды гномов надеялись, что эти еретики сгинули от лап неведомых подземных тварей или от капризов неспокойных гор. Но однажды, все изменилось. Из пещер стали выходить боевые автоматоны. Сотни и тысячи механических созданий. Медлительные и неповоротливые, но обладающие прочной броней и нечеловеческой силой, они в мгновение ока приводили в ужас целые армии. Среди них можно увидеть и гномов в опаленных доспехах и с топорами, которые сверкают молниями магических энергий. Вместе они называют себя Железные Легион."
+
+msgid "An automaton of the second generation, the creation of which is only possible for Great Blacksmiths. Even faster, stronger and deadlier. Wielding two blades on the battlefield, he easily breaks the armor of the warriors who turn up.  Only heavy infantry veterans or magicians can harm him."
+msgstr "Автоматон второго поколения, создание которого под силу лишь Великим Кузнецам. Еще быстрее, сильнее и смертоноснее. Орудуя на поле боя двумя клинками, он с легкостью разбивает доспехи подвернувшихся воинов.  Лишь ветераны тяжелой пехоты или маги могут причинить ему вред."
+
+msgid "In the midst of the most difficult battle with mechanical evil spirits, a real hurricane of blades can descend on the warriors, scattering splashes of blood and fragments of bodies around. This is the pinnacle of the Masters' skill. The limit of the Iron Legion warriors' development."
+msgstr "Посреди самого тяжёлого сражения с механической нечистью на воинов может обрушиться настоящий ураган лезвий, разбрасывающий вокруг брызги крови и ошметки тел. Это - вершина мастерства Магистров. Предел развития воинов Железного Легиона."
+
+msgid "female Archer"
+msgstr "Лучница"
+
+msgid "The women of the cult are not allowed to fight directly. Their lot is to support the warriors with a bow. However, even in close combat, they can cause a lot of problems with poisoned daggers."
+msgstr "Женщины культа не допускаются к сражениям напрямую. Их удел, поддерживать воинов из лука. Однако и в ближнем бою они могут доставить немало проблем отравленными кинжалами."
+
+msgid "dagger"
+msgstr "кинжал"
+
+msgid "bow"
+msgstr "лук"
+
+msgid "female Fire Archer"
+msgstr "Лучница огня"
+
+msgid "The archers of fire get a much more deadly weapon at their disposal. Arrows with burning tips are extremely dangerous for almost any living creature."
+msgstr "Лучницы огня получают в свое распоряжение куда более смертоносное оружие. Стрелы с горящими наконечниками чрезвычайно опасны почти для любого живого существа."
+
+msgid "fire bow"
+msgstr "огненный лук"
+
+msgid "It has long been known that a student of magic risks becoming a victim of dark and dangerous forces. Most often, fallen wizards become necromancers. They have harnessed the dead, their flesh, their bones, even their souls. Undead invasions are a long-standing and ongoing problem. But there are other dark arts. One of these is the disgusting magic of blood. Its adherents have not been heard of for many hundreds of years. Few ancient manuscripts claim that blood magicians gathered entire cults of followers around them, and then hunted down and enslaved ordinary people. The fate of these unfortunate people remained an unsolved mystery, but strange and hostile creatures began to appear in places where cults operated. No one could have imagined that Blood Cults existed all this time, but they skillfully hid their actions under the guise of orc raids. But now they have gained strength and are ready to reveal themselves to the world. They want to enslave all humans and destroy other races. The first battles with the royal army also gave the first information about the new enemy. It is known from the captured grimoires that the Patriarchs of all the Northern cults want to get together and conduct a mysterious ritual of the Red Sky. It seems that this is why they are collecting thousands of slaves and this could be the end of the Wesnoth kingdom."
+msgstr "Давно известно, что изучающий магию рискует стать жертвой темных и опасных сил. Чаще всего падшие волшебники становятся некромантами. Они обуздали мертвецов, их плоть, их кости, даже их души. Нашествия нежити являются давней и постоянной проблемой. Но есть и другие темные искусства. Одно из таких – омерзительная магия крови. О ее адептах не было слышно уже много сотен лет. Немногие древние рукописи утверждают, что маги крови собирали вокруг себя целые культы последователей, а затем выслеживали и угоняли в рабство простых людей. Судьба этих несчастных осталась нераскрытой тайной, но в местах, где действовали культы, начинали появляться странные и враждебные существа. Никто не мог предполагать, что Культы Крови существовали все это время, но умело скрывали свои действия под видом набегов орков. Но теперь они набрались сил и готовы явить себя миру. Они жаждут поработить всех людей и уничтожить прочие расы. Первые сражения с королевской армией дали и первые сведения о новом враге. Из захваченных гримуаров известно, что Патриархи всех Северных культов хотят собраться вместе и провести загадочный ритуал Красного Неба. Кажется, именно для этого они собирают тысячи рабов и именно это может стать концом королевства Веснот."
+
+msgid "Warden"
+msgstr "Надзиратель"
+
+msgid "crossbow"
+msgstr "арбалет"
+
+msgid "whip"
+msgstr "кнут"
+
+msgid "Reaper"
+msgstr "Жнец"
+
+msgid "scythe"
+msgstr "коса"
+
+msgid "curse"
+msgstr "проклятие"
+
+msgid "In the past, these people were peasants, artisans and even soldiers of the regular army. But the dark sorcery and flattering promises of the Masters forced them to leave their homes and join the cult. Their weapons are scythes. The once rural inventory is now harvesting a bloody harvest. Strangely enough, these people are slightly trained in magic, and therefore pose a special danger on the battlefield."
+msgstr "В прошлом эти люди были крестьянами, ремесленниками и даже воинами регулярной армии. Но темное колдовство и льстивые обещания Мастеров заставили их покинуть свои дома и присоединиться к культу. Оружием им служат косы. Когда-то сельский инвентарь теперь собирает кровавую жатву. Как ни странно, эти люди немного обучены магии, а потому представляют особую опасность на поле боя."
+
+msgid "The Wardens are chosen from the most violent and powerful members of the cult. They must lead dozens of slaves into battle alone. The sounds of strong blows of the whip always accompany such detachments. And if someone, despite the shackles, decides to escape, then a crossbow with a net will solve the problem."
+msgstr "Надзирателей выбирают из самых жестоких и сильных членов культа. Они должны в одиночку вести в бой десятки рабов. Звуки сильных ударов кнута всегда сопровождают такие отряды. А если кто-то, несмотря на кандалы, решит сбежать, то арбалет с сетью решит проблему."
+
+msgid "Slave"
+msgstr "Раб"
+
+msgid "female Slave"
+msgstr "Рабыня"
+
+msgid "Adept"
+msgstr "Адепт"
+
+msgid "Unlike necromancers who prefer solitude, blood mages train their successors in whole groups. The first step is the rank of novice. Then, the rank of an Adept follows. These people already possess magic at a sufficient level and are able to lead the ranks of followers into battle. They are not alien to the use of conventional weapons, through the cold steel of which they can draw out the life forces of the enemy."
+msgstr "В отличие от некромантов, предпочитающих одиночество, маги крови обучают своих преемников целыми группами. Первой ступенью является звание послушника. Затем, следует звание Адепта. Эти люди уже владеют магией на достаточном уровне и способны вести ряды последователей в бой. Им не чуждо и использование обычного оружия, через холодную сталь которого они могут вытягивать жизненные силы врага."
+
+msgid "dark sword"
+msgstr "тёмный меч"
+
+msgid "Peasants, lost travelers, and even robbers. All of them can join the ranks of the cult as slaves. Why does the cult need them?.. there are only guesses, one is scarier than the other. However, when the battle gets tough enough, they are released into battle. Thanks to the whips of the guards and mysterious drugs that cloud the mind, they kill even their fellow countrymen.  Despite the complete lack of armor, they are a serious force. Their iron-bound shackles break bones as well as a stout club."
+msgstr "Крестьяне, заблудившиеся путники и даже разбойники. Все они могут пополнить ряды культа в качестве рабов. Зачем они нужны культу... есть только догадки, одна страшнее другой. Однако, когда сражение становится достаточно тяжелым, их выпускают в бой. Благодаря кнутами надзирателей и таинственным снадобьям, затуманивающим рассудок, они  убивают даже своих земляков.  Несмотря на полное отсутствие брони они являются серьезной силой. Их обитые железом кандалы разбивают кости не хуже крепкой дубины."
+
+msgid "shackles"
+msgstr "кандалы"
+
+msgid "Order of Void"
+msgstr "Орден Пустоты"
+
+msgid "Veterans of the Royal Guard still remember the legends of the mysterious paladins of the Northern Citadels. The story goes that back in the time of Haldrick II, an unprecedented invasion of the undead took place in the capital. The mighty heroes were supposed to protect the people, but... failed. They had nothing to match the crushing magic of the warlocks. The city was burning, and the barely surviving remnants of the brotherhood could do nothing. Unable to bear the shame, they retreated to their stronghold and vowed to relentlessly improve the art of war, so that on the fateful day they would return and end dark magic forever. Since then, no one knows where the paladins went. Even their Strongholds were gone, as if they had never existed. But now everything has changed. Thousands of automatons of the Iron Legion are coming out of the mountains. Countless Blood Cults are active in the forests and swamps. The dead are waking up in abandoned castles. In this dark age, they came from the east. In shining white robes, in shining armor, they call themselves the Order of the Void and they have come to redeem themselves. It seems that the oath has not been forgotten, the paladins of the order destroy hordes of unholy creatures, despite the terrifying numerical superiority of the enemy. No less surprising is the fact that the order avoids alliances with any other military forces, preferring to fight away from prying eyes. Armies of enemies are always exterminated to the last fighter. Even random squads of humans or elves who came to the noise of the battle to help never return... Evil tongues say that in order to achieve military power, paladins resorted to mysterious forces that they are not even able to understand…"
+msgstr "Ветераны королевской гвардии до сих пор помнят легенды о таинственных паладинах Северных Цитаделей. История гласит, что еще во времена Халдрика II произошло невиданное нашествие нежити на столицу. Могучие герои должны были защитить народ, но… не сумели. Им было нечего противопоставить сокрушительной магии чернокнижников. Город горел, а едва выжившие остатки братства ничего не могли сделать. Будучи не в состоянии вынести позора, они удалились в свою твердыню и поклялись неустанно совершенствовать искусство войны, чтобы в роковой день вернуться и покончить с темной магией навсегда. С тех самых пор никто не знает, куда делись паладины. Даже их Цитадели исчезли, словно их никогда не было. Но сейчас все изменилось. Из гор выходят тысячи автоматонов Железного Легиона. В лесах и болотах орудуют бесчисленные Культы Крови. В заброшенных замках пробуждаются мертвецы. В этот темный век с востока пришли они. В сияющих белых одеждах, в сверкающих доспехах, они называют себя Орден Пустоты и они явились, чтобы искупить свою вину. Похоже, клятва не была забыта, паладины ордена уничтожают орды нечестивых существ, несмотря на ужасающее численное превосходство врага. Не менее удивительно и то, что орден избегает союзов с любыми другими военными силами, предпочитая сражаться вдали от посторонних глаз. Армии врагов всегда истребляются до последнего бойца. Даже случайные отряды людей или эльфов, пришедшие на шум битвы чтобы помочь, никогда не возвращаются… Злые языки говорят, что для достижения военного могущества, паладины прибегли к таинственным силам, которые они не в состоянии даже понять…"
+
+msgid "Void Essence"
+msgstr "Сущность Пустоты"
+
+msgid "influence"
+msgstr "влияние"
+
+msgid "Who are they? Where are they from? How are they related to the Order? There are no answers to these questions. Mysterious and mysterious creatures look like purple flame lights flying silently across the battlefield. It seems as if space itself disappears in the center of the being. Mortal weapons do not harm them and only magicians can destroy them."
+msgstr "Кто они? Откуда они? Как они связаны с Орденом? На эти вопросы нет ответов. Таинственные и загадочные существа выглядят как огни фиолетового пламени, бесшумно летающие по полю битвы. Кажется, будто само пространство исчезает в центре существа. Оружие смертных не наносит им вреда и лишь маги могут их уничтожить."

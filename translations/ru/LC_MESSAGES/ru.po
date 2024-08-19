@@ -237,3 +237,15 @@ msgstr "влияние"
 
 msgid "Who are they? Where are they from? How are they related to the Order? There are no answers to these questions. Mysterious and mysterious creatures look like purple flame lights flying silently across the battlefield. It seems as if space itself disappears in the center of the being. Mortal weapons do not harm them and only magicians can destroy them."
 msgstr "Кто они? Откуда они? Как они связаны с Орденом? На эти вопросы нет ответов. Таинственные и загадочные существа выглядят как огни фиолетового пламени, бесшумно летающие по полю битвы. Кажется, будто само пространство исчезает в центре существа. Оружие смертных не наносит им вреда и лишь маги могут их уничтожить."
+
+msgid "Warrior"
+msgstr "Воин"
+
+msgid "Heavy warrior"
+msgstr "Тяжелый воин"
+
+msgid "At all times, the order has remained a community of elite soldiers. Even a low-ranking fighter is clad in full plate armor and armed with an elaborately crafted blade. Before their first battle, warriors spend thousands of hours in training halls and can compete in the military craft even with enemy veterans."
+msgstr "Во все времена орден оставался сообществом элитных солдат. Даже боец низшего ранга облачен в полный латный доспех и вооружен искусно сделанным клинком. Перед своей первой битвой воины проводят тысячи часов в тренировочных залах и могут посоперничать в военном ремесле даже с ветеранами противника."
+
+msgid "These mighty heroes were created to crush the biggest and most dangerous fiends of dark magic. Their armor can withstand almost anything. They are the striking force of the order. They are death. They are retribution."
+msgstr "Эти могучие герои созданы для сокрушения самых больших и опасных исчадий темной магии. Их броня может выдержать почти все. Они - ударная сила ордена. Они - смерть. Они - возмездие."

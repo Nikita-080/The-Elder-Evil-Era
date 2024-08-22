@@ -249,3 +249,21 @@ msgstr "Во все времена орден оставался сообщес�
 
 msgid "These mighty heroes were created to crush the biggest and most dangerous fiends of dark magic. Their armor can withstand almost anything. They are the striking force of the order. They are death. They are retribution."
 msgstr "Эти могучие герои созданы для сокрушения самых больших и опасных исчадий темной магии. Их броня может выдержать почти все. Они - ударная сила ордена. Они - смерть. Они - возмездие."
+
+msgid "Shadow warrior"
+msgstr "Теневой воин"
+
+msgid "void wave"
+msgstr "волна пустоты"
+
+msgid "spear"
+msgstr "копьё"
+
+msgid "Horse warrior"
+msgstr "Конный воин"
+
+msgid "The horsemen of the Order. Even the proud people of the clan treat them with silent respect. With their long spear, they deliver a single fatal blow. It can also serve as a throwing weapon."
+msgstr "Всадники ордена. Даже гордые люди клана относятся к ним с молчаливым уважением. Своим длинным копьем они наносят единственный смертельный удар. Оно же может служить метательным оружием."
+
+msgid "Shadow Warriors earned their name for a reason. They comprehend fundamental and dangerous forces in solitude. They avoid other members of the order, say almost nothing, and move within the walls of the citadel almost silently, like shadows. There are fears that this is how they restrain the spread of some otherworldly filth. Anyway, shadow warriors are the only thing that the order can put up against mystical creatures."
+msgstr "Теневые воины заслужили свое название не просто так. Они постигают фундаментальные и опасные силы в уединении. Они избегают других служителей ордена, почти ничего не говорят и передвигаются в стенах цитадели почти бесшумно, словно тени. Есть опасения, что так они сдерживают распространение какой-то потусторонней скверны. Так или иначе, теневые воины это единственное, что может выставить орден против мистических созданий."

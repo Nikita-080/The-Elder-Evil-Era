@@ -1,7 +1,7 @@
 title="The Elder Evil Era"
 type="era"
 icon="attacks/fangs-angler.png"
-version="0.1.0beta"
+version="0.1.1beta"
 author="RBnik"
 passphrase="theriseofdarkmagic"
 description="The add-on contains 3 factions for multiplayer (Iron Legion, Blood Cult, Order of Void). Compatible with existing factions. Note: The faction functionality is ready, but some units are under development."
@@ -11,6 +11,12 @@ email="riabovnick080@yandex.ru"
     language="ru"
     title="Эра Древнего Зла"
     description="Аддон содержит 3 фракции для мультиплеера (Железный Легион, Культ Крови, Орден Пустоты). Совместимо с уже имеющимися фракциями. Примечание: функционал фракций готов, но некоторые юниты находятся в процессе разработки."
+[/translation]
+
+[translation]
+    language="ar"
+    title="The Elder Evil Era"
+    description="The add-on contains 3 factions for multiplayer (Iron Legion, Blood Cult, Order of Void). Compatible with existing factions. Note: The faction functionality is ready, but some units are under development."
 [/translation]
 
 [feedback]

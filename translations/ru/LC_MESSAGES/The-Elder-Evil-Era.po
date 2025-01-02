@@ -154,7 +154,7 @@ msgstr "Автоматон второго поколения, создание �
 msgid "In the midst of the most difficult battle with mechanical evil spirits, a real hurricane of blades can descend on the warriors, scattering splashes of blood and fragments of bodies around. This is the pinnacle of the Masters' skill. The limit of the Iron Legion warriors' development."
 msgstr "Посреди самого тяжёлого сражения с механической нечистью на воинов может обрушиться настоящий ураган лезвий, разбрасывающий вокруг брызги крови и ошметки тел. Это - вершина мастерства Магистров. Предел развития воинов Железного Легиона."
 
-msgid "female Archer"
+msgid "Archer"
 msgstr "Лучница"
 
 msgid "The women of the cult are not allowed to fight directly. Their lot is to support the warriors with a bow. However, even in close combat, they can cause a lot of problems with poisoned daggers."
@@ -166,7 +166,7 @@ msgstr "кинжал"
 msgid "bow"
 msgstr "лук"
 
-msgid "female Fire Archer"
+msgid "Fire Archer"
 msgstr "Лучница огня"
 
 msgid "The archers of fire get a much more deadly weapon at their disposal. Arrows with burning tips are extremely dangerous for almost any living creature."
@@ -207,6 +207,9 @@ msgstr "Раб"
 
 msgid "female Slave"
 msgstr "Рабыня"
+
+msgid "female Bloodless"
+msgstr "Обескровленная"
 
 msgid "Adept"
 msgstr "Адепт"
@@ -270,3 +273,57 @@ msgstr "Теневые воины заслужили свое название �
 
 msgid "Knights are noble warriors who have been through many battles. They form the basis of all the forces of the order. Their swordsmanship has been pushed almost to the limit of human capabilities and the only way to avoid death when faced with them is to flee."
 msgstr "Рыцари - это благородные воины, прошедшие через множество сражений. Они составляют основу всех сил ордена. Их мастерство владения мечом доведено почти до предела человеческих возможностей и единственный способ избежать смерти при столкновении с ними - это бегство."
+
+msgid "Blood Archer"
+msgstr "Лучница Крови"
+
+msgid "Only the strongest female warriors with the most experience receive the title of blood archers. Their appearance portends many deaths from blades, poisons and fire. In the name of a cult, they can set entire villages on fire, paying tribute to their dark gods."
+msgstr "Только сильнейшие воительницы с наибольшим опытом получают титул лучниц крови. Их появление предвещает множество смертей от лезвий, ядов и огня. Во имя культа они могут предавать огню целые селения, отдавая дань своим темным богам."
+
+msgid "Bloodless"
+msgstr "Обескровленный"
+
+msgid "Victims of the dark rituals of the patriarchs of the cult. Their desiccated, bloodless bodies have been turned into unstoppable weapons of war. No pain, no fear, no pity. They march forward, ignoring the blows of spears and axes. It seems that only magic can stop these monsters that were once human."
+msgstr "Жертвы темных ритуалов патриархов культа. Их иссушенные, лишенные крови тела превращены в неостановимые орудия войны. Ни боли, ни страха, ни жалости. Они идут вперед не обращая внимания на удары копий и топоров. Кажется, лишь магия может остановить этих монстров, когда то бывших людьми."
+
+msgid "fists"
+msgstr "кулаки"
+
+msgid "Bloodletter"
+msgstr "Кровопускатель"
+
+msgid "The skill of handling such unusual weapons as the scythe makes these warriors unpredictable and dangerous opponents. With one precise movement, such a monster can rip open the arteries of several opponents and raise fountains of blood into the air, fully justifying its name."
+msgstr "Мастерство обращения с таким необычным оружием как коса делает этих воинов непредсказуемыми и опасными противниками. Одним точным движением такой изверг может вспороть артерии нескольким противникам и поднять в воздух фонтаны крови, полностью оправдывая свое название."
+
+msgid "Bloodsucker"
+msgstr "Кровопийца"
+
+msgid "fangs"
+msgstr "клыки"
+
+msgid "Strange creatures are sometimes seen near mountains and swamps where people in red clothes meet. They hide in the night, attacking travelers and livestock, and all to quench their thirst for blood. When the peasants killed one of these creatures, they were horrified when they looked at it closer... It was a man. With fangs and claws, pale green skin, wild eyes, but still human."
+msgstr "Вблизи гор и болот, где встречаются люди в красных одеждах иногда замечают странных существ. Они прячутся в ночи, нападают на путников и домашний скот, и все чтобы утолить свою жажду крови. Когда крестьяне убили одну из таких тварей, то ужаснулись, рассмотрев ее поближе... Это был человек. С клыками и когтями, с бледно зеленой кожей, с дикими глазами, но все же человек."
+
+msgid "Decider"
+msgstr "Вершитель"
+
+msgid "The Deciders are so powerful that ordinary battles and raids become boring for them. They hunt down and kill the most powerful magicians and sorcerers in order to present their lords with bloody gifts."
+msgstr "Вершители столь сильны, что обычные сражения и рейды становятся для них скучными. Они выслеживают и убивают самых сильных магов и чародеев, чтобы преподнести своим повелителям кровавые дары."
+
+msgid "Enslaver"
+msgstr "Поработитель"
+
+msgid "Enslavers are experienced and knowledgeable warriors. They don't just control slaves. They go out of the cult lands alone to get fresh blood. Just one such person can become the nightmare of an entire settlement."
+msgstr "Поработители это опытные и знающие дело воины. Они не просто контролируют рабов. Они выходят за пределы земель культа в одиночку, чтобы добыть свежую кровь. Всего один такой человек может стать кошмаром целого поселения."
+
+msgid "Master"
+msgstr "Магистр"
+
+msgid "Cult masters are no longer just minions and bargaining chips in battles. They begin to be initiated into the mysteries of rituals, and their mystical abilities increase significantly."
+msgstr "Магистры культа уже не являются просто приспешниками и разменными монетами в сражениях. Их начинают посвящать в таинства ритуалов, и их мистические способности усиливаются в разы."
+
+msgid "Patriarch"
+msgstr "Патриарх"
+
+msgid "Powerful warlocks, able to fight on equal terms with the best graduates of Alduin Academy. Rituals involving human sacrifice have given them mysterious and terrifying powers that can affect the lives of the entire continent."
+msgstr "Могущественные чернокнижники, способные на равных сражаться с лучшими выпускниками академии Алдуина. Ритуалы с человеческими жертвами дали им таинственные и ужасающие силы, которые могут повлиять на жизнь всего континента."

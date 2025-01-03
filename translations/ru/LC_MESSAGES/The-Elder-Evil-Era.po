@@ -181,8 +181,8 @@ msgstr "Давно известно, что изучающий магию рис
 msgid "Warden"
 msgstr "Надзиратель"
 
-msgid "crossbow"
-msgstr "арбалет"
+msgid "net"
+msgstr "сеть"
 
 msgid "whip"
 msgstr "кнут"
@@ -327,3 +327,66 @@ msgstr "Патриарх"
 
 msgid "Powerful warlocks, able to fight on equal terms with the best graduates of Alduin Academy. Rituals involving human sacrifice have given them mysterious and terrifying powers that can affect the lives of the entire continent."
 msgstr "Могущественные чернокнижники, способные на равных сражаться с лучшими выпускниками академии Алдуина. Ритуалы с человеческими жертвами дали им таинственные и ужасающие силы, которые могут повлиять на жизнь всего континента."
+
+msgid "Heavy knight"
+msgstr "Тяжелый рыцарь"
+
+msgid "They are slow and unwieldy, but they possess almost supernatural strength. They never retreat, shielding themselves and their allies from any attacks."
+msgstr "Медлительные и неповоротливые, но обладающие почти сверхъестественной силой воины. Они никогда не отступают, прикрывая щитами себя и союзников от любых атак."
+
+msgid "Heavy paladin"
+msgstr "Тяжелый паладин"
+
+msgid "If a man in the shining armor of a heavy paladin stands above the battlefield, then the fiercest battle is coming. The hero, who has survived hundreds of wars, will have to hold back the onslaught of the greatest evil. Enchanted armor and sworn oaths will double his efforts. If he falls, then everything the Order has fought for will fall."
+msgstr "Если над полем битвы возвышается человек в сияющих доспехах тяжелого паладина, значит грядет жесточайшее сражение. Герою, пережившему сотни воин, предстоит сдержать натиск величайшего зла. Зачарованные доспехи и принесенные клятвы удвоят его усилия. Если падет он, то падет и все за что боролся Орден."
+
+msgid "Horse knight"
+msgstr "Конный рыцарь"
+
+msgid "Experienced riders receive the title of knight only after they kill enough of the creatures hiding in the dark. They are always at the forefront, where the proximity of death hardens their bodies and souls. They are faster, stronger and braver than any warrior rider."
+msgstr "Опытные наездники получают титул рыцаря лишь после того, как убьют достаточно тварей, прячущихся в темноте. Они всегда на передовой, где близость смерти закаляет их тела и души. Они быстрее, сильнее и храбрее любого всадника воина."
+
+msgid "Horse paladin"
+msgstr "Конный паладин"
+
+msgid "The elite of the order's cavalry. It's like they're flying over a battlefield and nothing can stop them. A single blow from a huge spear can easily kill even an armored opponent."
+msgstr "Элита кавалерии ордена. Они словно летят над полем битвы и ничто не может их остановить. Один удар огромного копья может запросто убить даже противника в доспехах. "
+
+msgid "Paladin"
+msgstr "Паладин"
+
+msgid "Legendary warriors clad in shining armor. Many considered them a myth until they came down from the peaks of the mountains. Perhaps now the paladins are the kingdom's only hope of salvation."
+msgstr "Легендарные воины, облаченные в сияющие доспехи. Многие считали их мифом, до тех пор пока они не сошли с вершин гор. Возможно теперь, паладины - единственная надежда королевства на спасение."
+
+msgid "Shadow knight"
+msgstr "Теневой рыцарь"
+
+msgid "The otherworldly energy becomes so strong in some shadow warriors that they can no longer control it. They are wrapped in purple threads of ether and carried over the battlefield, burning everyone in their path."
+msgstr "Потусторонняя энергия становится столь сильна в некоторых теневых воинах, что они уже не могут ее контролировать. Их обвивают фиолетовые нити эфира и несут над полем битвы, сжигая всех на своем пути."
+
+msgid "Shadow paladin"
+msgstr "Теневой паладин"
+
+msgid "He is no longer a human being, but he is not yet a soulless bundle of energy. Our understanding of the world is not enough to simply understand the price shadow paladins pay for their destructive abilities."
+msgstr "Это уже не человек, но еще не бездушный сгусток энергии. Нашего понимания мира недостаточно для того, чтобы просто понять, какую цену платят теневые паладины за свои разрушительные способности."
+
+msgid "Void daemon"
+msgstr "Демон пустоты"
+
+msgid "Terrifying creatures with their incomprehensibility, summoned by the strongest sorcerers of the Order. Strong, fast, and almost invulnerable to anything but magic, they terrify both opponents and allies."
+msgstr "Ужасные с своей непостижимости создания, призванные сильнейшими колдунами Ордена. Сильные, быстрые и почти неуязвимые ко всему кроме магии, они наводят ужас как на противников так и на союзников."
+
+msgid "Void ghost"
+msgstr "Призрак пустоты"
+
+msgid "Imbued with vitality, a small mysterious flame turns into something more. He lights the way for the allies and hits the opponents with waves of energy. He seems to be intelligent, but his true nature remains a mystery even to those who called him into this world."
+msgstr "Тяжелый паладинНапитавшись жизненной силой, маленький таинственный огонек превращается в нечто большее. Он освещает путь союзникам и поражает противников волнами энергии. Кажется, будто он разумен, но истинную его сущность остается тайной даже для тех, кто призвал его в этот мир."
+
+msgid "hatchet"
+msgstr "топорик"
+
+msgid "Knight"
+msgstr "Рыцарь"
+
+msgid "glaive"
+msgstr "глефа"

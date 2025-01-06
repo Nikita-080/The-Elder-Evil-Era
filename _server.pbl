@@ -1,7 +1,7 @@
 title="The Elder Evil Era"
 type="era"
 icon="attacks/fangs-angler.png"
-version="0.1.1beta"
+version="0.2.0beta"
 author="RBnik"
 passphrase="theriseofdarkmagic"
 description="The add-on contains 3 factions for multiplayer (Iron Legion, Blood Cult, Order of Void). Compatible with existing factions. Note: The faction functionality is ready, but some units are under development."
